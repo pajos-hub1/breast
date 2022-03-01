@@ -19,7 +19,7 @@ function NavBar() {
             <Nav.Link href="/symptoms">Symptoms</Nav.Link>
             <Nav.Link href="/treatment">Treatment</Nav.Link>
             <Nav.Link href="/Ontology">Ontology</Nav.Link>
-            <Nav.Link href="http://127.0.0.1:8000/predict/">Predict</Nav.Link>
+            <Nav.Link href="https://breastpred.herokuapp.com/predict//predict/">Predict</Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link href="https://github.com" target="_blank">
